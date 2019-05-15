@@ -27,4 +27,25 @@
         transform: scale3d(1.01, 1.01);
         .box-shadow(0 2px 15px 0 darken(@gray-lighter, 10%));
     }
+    &.solution-disabled {
+        cursor: default;
+        opacity: 0.6;
+        &:before {
+            content: 'COMING SOON';
+            position: absolute;
+            top: 15%;
+            left: 10%;
+            color: @brand-primary;
+            font-size: @font-size-h3;
+            font-weight: bold;
+            .rotate(-10deg);
+            z-index: 1;
+        }
+        &:hover{
+            -webkit-transform: none;
+            -ms-transform: none;
+            transform: none;
+            .box-shadow(0 0px 0px 0 darken(@gray-lighter, 10%));
+        }
+    }
 }
