@@ -17,6 +17,7 @@ gulp.task('watch', ['create-dist'], function() {
   gulp.watch('styles/*.less', ['create-dist']);
   gulp.watch('src/**/*.handlebars', ['create-dist']);
   gulp.watch('img/*', ['create-dist']);
+  gulp.watch('content/terms.md', ['create-dist']);
 });
 
 // Launch a server with dist directory exposed on it
@@ -36,7 +37,8 @@ gulp.task('create-dist', [
   'clean-dist',
   'less',
   'copy-assets',
-  'landings'
+  'landings',
+  'build-terms'
 ]);
 
 // Main task that should be used for development purpose

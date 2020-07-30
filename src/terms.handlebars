@@ -1,0 +1,20 @@
+{{!-- Shared template for all the articles --}}
+{{#> layout }}
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-9">
+                <h1>Akeneo Subscription Agreement</h1>
+            </div>
+            <div class="col-xs-3">
+                <p class="align-title pull-right"><b>As of July 31st, 2020<sup>*</sup></b></p>
+            </div>
+            <div class="col-xs-12">
+                <p><small><sup>*</sup>Former versions available upon request at legal@akeneo.com</small></p>
+            </div>
+        </div>
+        <div class="row terms">
+            {{{mainContent}}}
+        </div>
+    </div>
+{{> terms-footer }}
+{{/layout}}
