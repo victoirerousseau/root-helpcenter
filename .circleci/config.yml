@@ -36,9 +36,6 @@ workflows:
                       branches:
                           ignore:
                               - master
-            - deploy_staging:
-                  requires:
-                      - build
 
     deployment:
         jobs:
@@ -46,17 +43,7 @@ workflows:
                   filters:
                       branches:
                           only: master
-            - ready_to_deploy_in_production?:
-                  type: approval
-                  filters:
-                      branches:
-                          ignore:
-                              - master
-                  requires:
-                      - deploy_staging
             - deploy_production:
                   filters:
                       branches:
                           only: master
-                  requires:
-                      - ready_to_deploy_in_production?
