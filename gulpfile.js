@@ -26,7 +26,8 @@ gulp.task('launch-webserver', ['create-dist'], function() {
     .pipe(webserver({
       livereload: true,
       directoryListing: false,
-      open: true
+      open: true,
+      host: '0.0.0.0'
     }));
 });
 
