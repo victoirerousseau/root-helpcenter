@@ -24,6 +24,13 @@
     "gulp-webserver": "0.9.1",
     "handlebars": "4.0.6",
     "merge-stream": "1.0.1",
-    "require-dir": "0.3.2"
+    "require-dir": "0.3.2",
+    "markdown-it": "8.2.2",
+    "markdown-it-container": "2.0.0",
+    "markdown-it-emoji": "1.4.0",
+    "gulp-markdown-it-adapter": "0.1.1",
+    "markdown-it-toc-and-anchor": "4.1.1",
+    "highlightjs": "9.10.0",
+    "gulp-tap": "1.0.1"
   }
 }
