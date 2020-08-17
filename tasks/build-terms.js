@@ -25,7 +25,7 @@ gulp.task('build-terms', ['clean-dist', 'less'], function () {
                     }, {
                         partialsDirectory: ['./src/partials']
                     }))
-                    .pipe(rename('terms.html'))
+                    .pipe(rename('t&cs.html'))
                     .pipe(revReplace({manifest: gulp.src("./tmp/rev/rev-manifest.json")}))
                     .pipe(gulp.dest('./dist'))
             }));
