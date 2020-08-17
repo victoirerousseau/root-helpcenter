@@ -343,7 +343,7 @@ Therefore, the Customer:
 
 This Maintenance and Support Policy (“**Maintenance Policy**”) describes the policies and procedures under which Akeneo provides Maintenance and Support Services for its Subscription Service to its customers (each, a “**Customer**”).
 
-Maintenance and Support are provided through Akeneo’s online web-based maintenance portal at [www.support.akeneo.com](www.support.akeneo.com) (“**Maintenance Portal**”) allowing the Customer’s Administrator to issue and track any request for advice as part of Maintenance and Support.
+Maintenance and Support are provided through Akeneo’s online web-based maintenance portal at [helpdesk.akeneo.com](https://helpdesk.akeneo.com) (“**Maintenance Portal**”) allowing the Customer’s Administrator to issue and track any request for advice as part of Maintenance and Support.
 
 This Maintenance Policy sets forth expectations for Maintenance and Support between the Customer and Akeneo’s support organization. Akeneo may subcontract certain Maintenance and Support obligations to an Affiliate but will be responsible for the acts and omissions of such Affiliate.
 
