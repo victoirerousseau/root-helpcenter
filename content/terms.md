@@ -36,7 +36,7 @@ means the client entity that will purchase the Akeneo Services through a Purchas
 means all Data or Content (such as text, images, materials, photos, audio, video, and all other forms of data or communication, …) made available by the Customer or its Authorized Users to Akeneo or otherwise provided by Customer or its Authorized Users in connection with the provision of the Services.
 
 **“Documentation”**  
-means the online help materials describing the features and functionality of the Subscription Service as well as any technical pre-requisites that Akeneo provides for use with its Subscription Service, as updated by Akeneo from time to time and available here: [https://help.akeneo.com/](help.akeneo.com)
+means the online help materials describing the features and functionality of the Subscription Service as well as any technical pre-requisites that Akeneo provides for use with its Subscription Service, as updated by Akeneo from time to time and available here: [https://help.akeneo.com/](https://help.akeneo.com)
 
 **“Improvement”**  
 means new features, functionality, enhancements, updates, upgrades, error corrections and bug fixes to the Subscription Service made generally available by Akeneo, from time to time on its discretion, for no additional charge to Customer. New products or modules released by Akeneo are not considered an Improvement and are subject to additional purchase from Customer.
@@ -343,7 +343,7 @@ Therefore, the Customer:
 
 This Maintenance and Support Policy (“**Maintenance Policy**”) describes the policies and procedures under which Akeneo provides Maintenance and Support Services for its Subscription Service to its customers (each, a “**Customer**”).
 
-Maintenance and Support are provided through Akeneo’s online web-based maintenance portal at [www.support.akeneo.com](www.support.akeneo.com) (“**Maintenance Portal**”) allowing the Customer’s Administrator to issue and track any request for advice as part of Maintenance and Support.
+Maintenance and Support are provided through Akeneo’s online web-based maintenance portal at [helpdesk.akeneo.com](https://helpdesk.akeneo.com) (“**Maintenance Portal**”) allowing the Customer’s Administrator to issue and track any request for advice as part of Maintenance and Support.
 
 This Maintenance Policy sets forth expectations for Maintenance and Support between the Customer and Akeneo’s support organization. Akeneo may subcontract certain Maintenance and Support obligations to an Affiliate but will be responsible for the acts and omissions of such Affiliate.
 
