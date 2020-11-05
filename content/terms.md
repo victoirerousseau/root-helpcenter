@@ -433,7 +433,7 @@ In the event that the Purchase Order expressly states that the Subscription Serv
 
 # Exhibit C - Conditions for a Project Success Assistance Service
 
-PSA, Project Success Assistance, is expertise consulting services provided to both the integrator and the Customer in the design and launch phase of the project, limited to the 1st year of the agreement. It is mainly or exclusively realized remotely. Cost of travel to be arranged separately. The focus is on the following areas, addressed through one or more workshops in collaboration with the integrator:
+PSA, Project Success Assistance, is expertise consulting services provided to both the integrator and the Customer in the design and launch phase of the project, limited to the first twelve (12) months of the agreement. It is mainly or exclusively realized remotely. Cost of travel to be arranged separately. The focus is on the following areas, addressed through one or more workshops in collaboration with the integrator:
   1.  catalog modeling - making sure the catalog is properly modeled to best cater for the needs of various channels and departments in the Customer’s side. Also, its objective is to assure the best performance of the PIM.
   2.  business processes definition - mapping and defining in the PIM the import/enrichment/export processes as well as users and systems involved in order to create the right access to all systems and users in order for them to optimally perform their tasks. 
 
