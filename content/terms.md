@@ -408,9 +408,10 @@ Customer can obtain Maintenance and Support by reporting Errors to Akeneo.  Erro
 
 - **Support Operating Days and Times**  
   Support Hours and Days are
-  | Supported Days | Eastern Standard Time |
+  | Supported Days | Time |
   | -------------- | --------------------- |
-  | Monday, Tuesday, Wednesday, Thursday, Friday. | 9am – 6pm |
+  | Monday, Tuesday, Wednesday, Thursday, Friday. | 9am – 6pm EST for US customers |
+  | Monday, Tuesday, Wednesday, Thursday, Friday. | 9am – 6pm CET for rest of the world |
 
 Note: Limited support during US and France public holidays.
 
