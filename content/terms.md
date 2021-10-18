@@ -279,11 +279,18 @@ Akeneo may make modifications to the Subscription Service or particular componen
 ## Audit
 Akeneo may, from time to time, verify that Customer’s use of the Subscription Service is within the applicable usage limits, and Customer shall promptly and accurately certify and/or provide evidence of Customer’s compliance with the applicable usage limits as may be requested by Akeneo. In strict compliance with the Confidentiality clause, Customer hereby authorizes Akeneo to access the Data in the Subscription Service at any time for the purposes of verifications, tests, continuous improvement or resolution of anomalies, control of use.
 
+## Marketing
+Customer hereby authorizes Akeneo to use Customer’s name and logo for its marketing efforts, provided that such reference is consistent with Customer’s generally applicable branding guidelines, and that Akeneo will cease making such references after receiving written notice from Customer to do so. 
+
 ## Publicity
-Customer hereby grants Akeneo a non-exclusive license solely during the term of the Purchase Order to list Customer’s name and display the Customer’s logo in the customer section of Akeneo’s website and to use Customer’s name and logo in Akeneo’s customer lists but only to the extent that other customers of Akeneo are also listed on such list. Any other use by Akeneo of the Customer’s name, logo or trademark requires the Customer’s prior written consent (such consent not to be unreasonably withheld).
+Akeneo may issue a press release to announce the supply of services to Customer within thirty (30) days of the Effective Date of the Purchase Order, and the press release shall be subject to the Customer’s consent, which shall not be unreasonably withheld. 
+
+## Case Study
+Customer will assist Akeneo with the creation of a case study regarding the supply of services within six (6) months of the implementation of the Subscription Service and agrees to provide information that will help prospective Akeneo customers to understand the value of the Akeneo offering.
 
 ## No Third-Party Beneficiaries
 Nothing contained in this Agreement is intended or shall be construed to confer upon any person any rights, benefits or remedies of any kind or character whatsoever, or to create any obligation of a Party to any such person.
+
 ## Waiver and Severability
 Unless otherwise stated in an applicable “Specific Conditions Document” (such as the Purchase Order or Exhibit or Appendix or Addendum identified as waiving specific general terms and conditions articles), performance of any obligation required by a Party hereunder may be waived only by a written waiver signed by an authorized representative of the other Party, which waiver shall be effective only with respect to the specific obligation described therein.  The failure of either Party to exercise any of its rights under this Agreement will not be deemed a waiver or forfeiture of such rights. Any conflict between the terms and conditions set forth in this Agreement and any Purchase Order shall be resolved in favor of this Agreement. The invalidity or unenforceability of one or more provisions of this Agreement will not affect the validity or enforceability of any of the other provisions hereof, and this Agreement will be construed in all respects as if such invalid or unenforceable provision(s) were omitted.
 
