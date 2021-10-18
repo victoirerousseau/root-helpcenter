@@ -317,7 +317,7 @@ means the period of time elapsed during any scheduled Maintenance and Support Se
 Akeneo will use best efforts to ensure that the Percentage Uptime in any calendar month is at least 99.5%.  In the event Akeneo fails to achieve Percentage Uptime of at least 99.5% two (2) calendar months in a row then Customer shall have the right, as its sole and exclusive remedy for any such failure, to terminate the Agreement.
 
 ## Backup and Security
-Akeneo will perform periodically backups of Customer Content pursuant to the below frequency:  
+Akeneo will perform periodically backups of Customer Content from Customer's production environment pursuant to the below frequency:  
 - On the Subscription Service:
     - Daily for the last 10 days
     - Once per week for the last 5 weeks
