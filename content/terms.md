@@ -202,7 +202,7 @@ Except as set forth in [Section “Exceptions”](#exceptions) below, to the max
 Except as set forth in [Section “Exceptions”](#exceptions) below, the maximum liability of each party in connection with this Agreement shall be limited to and not exceed the fees paid or payable by Customer for the Subscription Service subject to the claim during the twelve (12) month period immediately preceding the date on which the cause of action arose.
 
 ## Exceptions
-Nothing in this Agreement is intended to exclude or restrict or will be construed as excluding or restricting the liability of either party for (a) indemnification obligations under this Agreement; (b) any violation by the customer of Akeneo’s intellectual property rights in and to the Subscription Service; or (c) any liability that cannot be limited or excluded by applicable law.
+Nothing in this Agreement is intended to exclude or restrict or will be construed as excluding or restricting the liability of either party for (a) any violation by the customer of Akeneo’s intellectual property rights in and to the Subscription Service; or (b) any liability that cannot be limited or excluded by applicable law.
 
 Each party acknowledges that the limitations of liability set forth in this section reflect the allocation of risk between the parties under this agreement, and that in the absence of such limitations of liability, the economic terms of this agreement would be significantly different.
 
