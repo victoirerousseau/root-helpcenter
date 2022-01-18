@@ -38,7 +38,8 @@ gulp.task('create-dist', [
   'less',
   'copy-assets',
   'landings',
-  'build-terms'
+  'build-terms',
+  'build-free-trial-terms'
 ]);
 
 // Main task that should be used for development purpose
