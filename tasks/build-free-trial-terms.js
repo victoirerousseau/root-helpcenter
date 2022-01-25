@@ -1,6 +1,6 @@
 /**
  * Transform Markdown terms into an HTML page
- * presenting General terms
+ * presenting Free Trial terms
  */
 const gulp = require('gulp');
 const tap    = require('gulp-tap');
@@ -12,21 +12,21 @@ const rename = require('gulp-rename');
 const revReplace = require('gulp-rev-replace');
 const HelpcenterMarkdownIt = require('./common/markdown-it.js');
 
-gulp.task('build-terms', ['clean-dist', 'less'], function () {
+gulp.task('build-free-trial-terms', ['clean-dist', 'less'], function () {
     var md = new HelpcenterMarkdownIt();
 
-    return gulp.src('content/terms.md')
+    return gulp.src('content/free-trial-terms.md')
             .pipe(insert.wrap("::::: mainContent\n", "\n:::::"))
             .pipe(insert.prepend(getTocMarkdown() + "\n"))
             .pipe(gulpMarkdownIt(md))
             .pipe(tap((file) => {
-                return gulp.src('src/terms.handlebars')
+                return gulp.src('src/free-trial-terms.handlebars')
                     .pipe(gulpHandlebars({
                         mainContent: file.contents
                     }, {
                         partialsDirectory: ['./src/partials']
                     }))
-                    .pipe(rename('tcs.html'))
+                    .pipe(rename('free-trial-terms.html'))
                     .pipe(revReplace({manifest: gulp.src("./tmp/rev/rev-manifest.json")}))
                     .pipe(gulp.dest('./dist'))
             }));
