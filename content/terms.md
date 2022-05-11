@@ -327,12 +327,7 @@ Akeneo will use best efforts to ensure that the Percentage Uptime in any calenda
 
 ## Backup and Security
 Akeneo will perform periodically backups of Customer Content from Customer's production environment pursuant to the below frequency:  
-- On the Subscription Service:
-    - Daily for the last 10 days
-    - Once per week for the last 5 weeks
-- On External backup system:
-    - Once per month for the last 12 months
-    - Once per year for the last 10 years
+- 1 time per day for the last thirty (30) days.
 
 Security measures implemented by Akeneo’s hosting provider are described at the following address: [https://cloud.google.com/security/](https://cloud.google.com/security/).
 
